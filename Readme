@@ -1,0 +1,13 @@
+"Renshu-cho gyoretsu" game by Kurashov A.K. (Programming) and Kostyukov D.A. (Idea), version 0.2
+2013, licensed under GNU GPLv3
+Task of game - clear entire field by pairs of neighbour numbers, which must be or equal, or their sum must be equal 10
+
+Features:
+ * 9018 cells in 1002 rows
+ * going beyond the boundaries of the field - game over
+ * auto empty rows cleaner
+ * no possibility of undo
+ * two game modes: classic and with random numbers
+
+By pressing "White flag" button You are will fill the next cells on the field by the remaining numbers.
+Shift-Alt-M - switch mode of game.
